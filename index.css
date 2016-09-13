@@ -1,19 +1,29 @@
 /* eyy it shaboy new css file here */
 #topdiv {
   width: auto;
-  height: 50px;
   margin-top: 5px, 5px, 0px, 5px;
-  background-color: #66a3ff;
+  background-color: #4da6ff;
   font-family: "Times New Roman", sans-serif;
   color: #404040;
   border-radius: 5px;
   border-width: 4px;
+  display: block;
 }
 #topdivtext {
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 5px;
+  padding: 10px;
 }
 body {
-  background-position: center, 50%;
+  background-position: 50%;
+}
+#bodydiv {
+  width: auto;
+  height: 150px;
+  margin: 10px
+}
+#leftdiv {
+  height: 150px;
+  width: 40px;
+  background-color: #80bfff;
+  border-radius: 5px;
+  margin: 10px
 }
