@@ -17,14 +17,7 @@
 body {
   background-position: 50%;
 }
-#bodydiv {
-  width: auto;
-  height: 900px;
-  /*margin: 10px; */
-  background-color: #ffff99;
-  border-radius: 5px;
-  float:right;
-}
+
 #leftdiv {
   height: 900px;
   width: 120px;
@@ -32,4 +25,12 @@ body {
   border-radius: 5px;
   /*margin: 10px;*/
   float: left;
+}
+#bodydiv {
+  width: 300px;
+  height: 900px;
+  /*margin: 10px; */
+  background-color: #ffff99;
+  border-radius: 5px;
+  float:right;
 }
