@@ -34,4 +34,5 @@ body {
   background-color: #ffff99;
   border-radius: 5px;
   /*float:right;*/
+  clear: left;
 }
