@@ -6,10 +6,9 @@
   font-family: "Times New Roman", sans-serif;
   color: #404040;
   border-radius: 5px;
-  border-width: 4px;
   display: block;
   text-align: auto;
-  padding: 7px;
+  padding: 4px;
 }
 #topdivtext {
   padding: 10px;
@@ -28,9 +27,9 @@ body {
   display: inline;
 }
 #bodydiv {
-  width: 90%;
+  width: 85%;
   height: 900px;
-  /*margin: 10px; */
+  margin-left: 10px;
   background-color: #ffff99;
   border-radius: 5px;
   float:left;
