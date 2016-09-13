@@ -1,7 +1,7 @@
 /* eyy it shaboy new css file here */
 #topdiv {
   width: auto;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   background-color: #4da6ff;
   font-family: "Times New Roman", sans-serif;
   color: #404040;
@@ -29,7 +29,7 @@ body {
 #bodydiv {
   width: 88%;
   height: 900px;
-  margin-left: 10px;
+  margin-left: 20px;
   background-color: #ffff99;
   border-radius: 5px;
   float:left;
