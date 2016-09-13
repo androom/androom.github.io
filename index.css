@@ -8,11 +8,11 @@
   border-radius: 5px;
   border-width: 4px;
   display: block;
+  text-align: auto;
 }
 #topdivtext {
   padding: 10px;
   font-size: 30px;
-  text-align: auto;
 }
 body {
   background-position: 50%;
@@ -23,7 +23,6 @@ body {
   margin: 10px;
   background-color: #ffff99;
   border-radius: 5px;
-  display: inline;
 }
 #leftdiv {
   height: 900px;
