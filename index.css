@@ -28,7 +28,7 @@ body {
   display: inline;
 }
 #bodydiv {
-  width: auto;
+  width: 70%;
   height: 900px;
   /*margin: 10px; */
   background-color: #ffff99;
