@@ -7,7 +7,9 @@
   color: #404040;
   border-radius: 5px;
   display: block;
-  text-align: auto;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 #topdivtext {
   padding: 10px;
@@ -21,7 +23,6 @@ body {
   width: 120px;
   background-color: #80bfff;
   border-radius: 5px;
-  /*margin: 10px;*/
   float: left;
   display: inline;
 }
