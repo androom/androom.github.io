@@ -8,7 +8,6 @@
   border-radius: 5px;
   display: block;
   text-align: auto;
-  padding: 4px;
 }
 #topdivtext {
   padding: 10px;
@@ -27,7 +26,7 @@ body {
   display: inline;
 }
 #bodydiv {
-  width: 85%;
+  width: 88%;
   height: 900px;
   margin-left: 10px;
   background-color: #ffff99;
