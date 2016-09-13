@@ -1,7 +1,7 @@
 /* eyy it shaboy new css file here */
 #topdiv {
   width: auto;
-  margin-top: 5px, 5px, 0px, 5px;
+  margin-top: 10px, 10px, 0px, 10px;
   background-color: #4da6ff;
   font-family: "Times New Roman", sans-serif;
   color: #404040;
@@ -11,18 +11,20 @@
 }
 #topdivtext {
   padding: 10px;
+  font-size: 20px;
 }
 body {
   background-position: 50%;
 }
 #bodydiv {
   width: auto;
-  height: 150px;
-  margin: 10px
+  height: 900px;
+  margin: 10px;
+  background-color: #ffff99
 }
 #leftdiv {
-  height: 150px;
-  width: 40px;
+  height: 900px;
+  width: 120px;
   background-color: #80bfff;
   border-radius: 5px;
   margin: 10px
