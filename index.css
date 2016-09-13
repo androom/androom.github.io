@@ -26,6 +26,9 @@ body {
   float: left;
   display: inline;
 }
+td {
+  color: #404040;
+}
 #bodydiv {
   width: 88%;
   height: 900px;
@@ -45,4 +48,8 @@ h3 {
   padding: 3px;
   text-align: center;
   color: #404040
+}
+#bodytext {
+  color: #404040;
+  font-family: "Times New Roman", sans-serif;
 }
