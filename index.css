@@ -23,6 +23,7 @@ body {
   margin: 10px;
   background-color: #ffff99;
   border-radius: 5px;
+  clear: right;
 }
 #leftdiv {
   height: 900px;
